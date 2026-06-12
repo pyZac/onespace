@@ -1083,7 +1083,7 @@ export default function OneSpace() {
           width:200%; height:200%;
           transform:scale(0.5); transform-origin:top left;
           border:none; pointer-events:none;
-          background:#fff;
+          background:#fff; direction:ltr;
         }
         .os-iframe-overlay {
           position:absolute; inset:0;
