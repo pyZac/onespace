@@ -1077,9 +1077,10 @@ export default function OneSpace() {
         /* Website iframe preview */
         .os-iframe-wrap {
           position:relative; width:100%; height:100%;
-          overflow:hidden; border-radius:0;
+          overflow:hidden; border-radius:0; direction:ltr;
         }
         .os-iframe-preview {
+          position:absolute; top:0; left:0;
           width:200%; height:200%;
           transform:scale(0.5); transform-origin:top left;
           border:none; pointer-events:none;
