@@ -24,7 +24,7 @@ const T = {
       items:[
         {cat:"Branding", t:"Brand Identity Design", d:"Complete visual identity system — logo, colors, typography and brand guidelines."},
         {cat:"Web Design", t:"Website Development", d:"Custom high-performance website built for speed, conversion and scale.", link:"https://noblefinishrenovaties.nl"},
-        {cat:"Personal Branding", t:"Saher Aldarwish", d:"Full personal brand strategy, content & social growth for Arabic-speaking creator.", link:"https://www.instagram.com/saheraldarwish1?igsh=MXI2N3BwMGs4M2pkZQ%3D%3D&utm_source=qr", iglink:true},
+        {cat:"Personal Branding", t:"Saher Aldarwish", d:"Full personal brand strategy, content & social growth for Arabic-speaking creator.", link:"https://www.instagram.com/saheraldarwish1?igsh=MXI2N3BwMGs4M2pkZQ%3D%3D&utm_source=qr"},
         {cat:"Digital Marketing", t:"Performance Ads Campaign", d:"Multi-platform ad campaign delivering strong ROAS and measurable growth."},
         {cat:"Content Creation", t:"Social Media Content", d:"Scroll-stopping content strategy with consistent visual identity across platforms."},
         {cat:"Studio Production", t:"Podcast Production", d:"End-to-end podcast production — recording, editing and post-production in our studio."},
@@ -68,7 +68,7 @@ const T = {
       items:[
         {cat:"Branding", t:"Merkidentiteit Ontwerp", d:"Compleet visueel identiteitssysteem — logo, kleuren, typografie en merkrichtlijnen."},
         {cat:"Web Design", t:"Website Ontwikkeling", d:"Maatwerk website gebouwd voor snelheid, conversie en schaalbaarheid.", link:"https://noblefinishrenovaties.nl"},
-        {cat:"Personal Branding", t:"Saher Aldarwish", d:"Volledige personal brand strategie, content & sociale groei voor Arabischtalige creator.", link:"https://www.instagram.com/saheraldarwish1?igsh=MXI2N3BwMGs4M2pkZQ%3D%3D&utm_source=qr", iglink:true},
+        {cat:"Personal Branding", t:"Saher Aldarwish", d:"Volledige personal brand strategie, content & sociale groei voor Arabischtalige creator.", link:"https://www.instagram.com/saheraldarwish1?igsh=MXI2N3BwMGs4M2pkZQ%3D%3D&utm_source=qr"},
         {cat:"Digitale Marketing", t:"Performance Advertentiecampagne", d:"Multi-platform campagne met sterke ROAS en meetbare groei."},
         {cat:"Content Creatie", t:"Social Media Content", d:"Opvallende contentstrategie met consistente visuele identiteit op alle platforms."},
         {cat:"Studio Productie", t:"Podcast Productie", d:"End-to-end podcastproductie — opname, editing en postproductie in onze studio."},
@@ -105,14 +105,14 @@ const T = {
         {t:"إدارة التواصل الاجتماعي", d:"استراتيجية وتقويمات محتوى لتنمية جمهورك."},
         {t:"التسويق الرقمي", d:"حملات متكاملة تجلب زيارات مؤهلة وعائدًا قابلًا للقياس."},
         {t:"إدارة الإعلانات", d:"إعلانات Meta وGoogle وTikTok تُدار لأقصى وصول وعائد."},
-        {t:"استوديو احترافي", d:"استوديو بودكاست ووسائط إعلامية متطور — للإيجار أو التعاون."},
+        {t:"استوديو احترافي", d:"استوديو بودكاست ووسائط إعلامية متطورة  للإيجار أو التعاون."},
       ]
     },
     work:{ tag:"أعمالنا", h:"مشاريع مختارة",
       items:[
         {cat:"هوية بصرية", t:"تصميم الهوية البصرية", d:"نظام هوية بصرية متكامل — شعار، ألوان، طباعة وإرشادات العلامة التجارية."},
         {cat:"تصميم ويب", t:"تطوير موقع إلكتروني", d:"موقع مخصص وعالي الأداء مبني للسرعة والتحويل والنمو.", link:"https://noblefinishrenovaties.nl"},
-        {cat:"البراند الشخصي", t:"Saher Aldarwish", d:"استراتيجية براند شخصي متكاملة، محتوى ونمو على السوشيال ميديا للمبدع العربي.", link:"https://www.instagram.com/saheraldarwish1?igsh=MXI2N3BwMGs4M2pkZQ%3D%3D&utm_source=qr", iglink:true},
+        {cat:"البراند الشخصي", t:"Saher Aldarwish", d:"استراتيجية براند شخصي متكاملة، محتوى ونمو على السوشيال ميديا للمبدع العربي.", link:"https://www.instagram.com/saheraldarwish1?igsh=MXI2N3BwMGs4M2pkZQ%3D%3D&utm_source=qr"},
         {cat:"تسويق رقمي", t:"حملة إعلانية متكاملة", d:"حملة متعددة المنصات بعائد استثمار قوي ونمو قابل للقياس."},
         {cat:"إنشاء محتوى", t:"محتوى السوشيال ميديا", d:"استراتيجية محتوى جذابة بهوية بصرية موحدة عبر جميع المنصات."},
         {cat:"إنتاج استوديو", t:"إنتاج بودكاست", d:"إنتاج بودكاست متكامل — تسجيل، مونتاج وما بعد الإنتاج في استوديونا."},
